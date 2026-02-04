@@ -71,12 +71,15 @@ python app.py
 http://127.0.0.1:5000
 
 AI-Based Meeting Scheduler UI:
+
 <img width="1581" height="767" alt="image" src="https://github.com/user-attachments/assets/58171716-da20-4293-981a-0578795c56dd" />
 
 User selects available time slots:
+
 <img width="1524" height="764" alt="image" src="https://github.com/user-attachments/assets/6cdc102c-1008-4c1c-a276-ab4deab8a38f" />
 
 System checks for conflicts:
+
 <img width="1516" height="767" alt="image" src="https://github.com/user-attachments/assets/06b63609-1a79-4629-8dec-7da39ad3f1dd" />
 
 ## Author
