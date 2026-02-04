@@ -25,16 +25,9 @@ This project demonstrates the practical application of Artificial Intelligence c
 ## 🛠️ Tech Stack
 
 Frontend : HTML,CSS
+
 Backend : Python,Flask
 
-## ⚙️ System Architecture
-User Interface
-      ↓
-Flask Backend
-      ↓
-AI Decision Logic
-      ↓
-JSON Data Storage
 
 ## 🚀 Features
 
@@ -59,7 +52,8 @@ Instead of choosing a random available slot, the system:
 - Avoids late hours where possible
 - This makes the scheduler behave more like a human assistant.
 
-##▶️ How to Run the Project
+▶️ How to Run the Project
+
 1️⃣ Clone the Repository:
 - git clone https://github.com/your-username/ai-meeting-scheduler-agent.git
 - cd ai-meeting-scheduler-agent
