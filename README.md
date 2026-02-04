@@ -79,7 +79,7 @@ User selects available time slots:
 System checks for conflicts:
 <img width="1516" height="767" alt="image" src="https://github.com/user-attachments/assets/06b63609-1a79-4629-8dec-7da39ad3f1dd" />
 
-##Author
+## Author
 
 Pothabattula Ambha Ramya Sri
 
