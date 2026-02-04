@@ -61,16 +61,19 @@ Instead of choosing a random available slot, the system:
 
 ##▶️ How to Run the Project
 1️⃣ Clone the Repository:
-git clone https://github.com/your-username/ai-meeting-scheduler-agent.git
-cd ai-meeting-scheduler-agent
+- git clone https://github.com/your-username/ai-meeting-scheduler-agent.git
+- cd ai-meeting-scheduler-agent
 
 2️⃣ Install Dependencies:
+
 python -m pip install flask
 
-3️⃣ Run the Application
+3️⃣ Run the Application:
+
 python app.py
 
-4️⃣ Open in Browser
+4️⃣ Open in Browser:
+
 http://127.0.0.1:5000
 
 AI-Based Meeting Scheduler UI:
@@ -83,6 +86,7 @@ System checks for conflicts:
 <img width="1516" height="767" alt="image" src="https://github.com/user-attachments/assets/06b63609-1a79-4629-8dec-7da39ad3f1dd" />
 
 ##Author
+
 Pothabattula Ambha Ramya Sri
 B.Tech – Information Technology
 
